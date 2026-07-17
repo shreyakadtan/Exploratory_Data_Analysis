@@ -30,24 +30,7 @@ Plots are generated using **Matplotlib** and **Seaborn**, providing clear visual
 
 ---
 
-## 📂 Project Structure
 
-Netflix-EDA/
-│
-├── netflix_eda.py
-├── netflix_titles.csv
-├── requirements.txt
-├── README.md
-└── images/
-    ├── movies_vs_tv.png
-    ├── content_over_years.png
-    ├── top_countries.png
-    ├── top_genres.png
-    ├── rating_distribution.png
-    └── movie_duration.png
-
-
----
 
 ## ▶️ How to Run
 
